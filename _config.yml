@@ -1,8 +1,8 @@
 # Site settings
 title: Clarissa Fonseca
-email: your-email@domain.com
+email: clarissa@braincloud.io
 url: https://cpsf1313.github.io
-description: "This is my space, where I post my work and thoughts. I am glad you have stopped by :)."
+description: "designs, illustration, adobe illustrator, sketch"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
@@ -35,7 +35,7 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Everywhere and nowhere ;)
+  - line: Nomad
 
 
 # Credits content
