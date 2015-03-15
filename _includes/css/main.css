@@ -165,6 +165,9 @@ header .intro-text .skills {
     outline: 0;
 }
 
+.navbar-default .navbar-nav>.active>a, .navbar-default .navbar-nav>.active>a:hover, .navbar-default .navbar-nav>.active>a:focus {
+  border-radius: 5px;
+}
 .navbar-default,
 .navbar-inverse {
     border: 0;
