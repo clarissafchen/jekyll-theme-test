@@ -1,12 +1,12 @@
 ---
 layout: default
 modal-id: 6
-date: 2015-03-02
+date: 2015-03-28
 img: vinci.png
 alt: rocket-logo
 project-date: March 2015
 client: Kickstarter Project
-url: https://www.kickstarter.com/projects/597077987/vinci-the-kitty-stickers
+link: https://www.kickstarter.com/projects/597077987/vinci-the-kitty-stickers
 category: Graphic Design
 description: Created set of stickers used in successfully funded Kickstarter campaign. Made using Adobe Illustrator.
 ---
