@@ -1,7 +1,7 @@
 # Site settings
 title: Clarissa Fonseca
 email: clarissa@braincloud.io
-url: https://cpsf1313.github.io
+url: https://clarissafchen.github.io
 description: "designs, illustration, adobe illustrator, sketch"
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
@@ -26,12 +26,10 @@ social:
     url: https://twitter.com/ClarisFonseca
   - title: facebook
     url: https://www.facebook.com/groups/729580157120904/
-  - title: instagram
-    url: http://instagram.com/boomshaka_clari/
   - title: linkedin
-    url: https://www.linkedin.com/pub/clarissa-fonseca/97/7a7/ab5/en
+    url: https://www.linkedin.com/in/clarissafchen/
   - title: github
-    url: https://github.com/cpsf1313
+    url: https://github.com/clarissafchen
 
 # Postal address (add as many lines as necessary)
 address:
@@ -39,7 +37,7 @@ address:
 
 
 # Credits content
-credits: '<a href="http://startbootstrap.com">Freelancer</a> & modified by Clarissa Fonseca'
+credits: '<a href="http://startbootstrap.com">Freelancer</a> & modified by Clarissa Fonseca Chen'
 
 # Build settings
 markdown: kramdown
